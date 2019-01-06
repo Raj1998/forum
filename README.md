@@ -21,4 +21,8 @@ This website “ONLINE DISCUSSION FORUM” is made for providing a  platform for
 * DAO are used for providing access to an underlying database or any other persistence storage
 
 ## ScreenShots
-
+<img src="res/1.png">
+<img src="res/2.png">
+<img src="res/3.png">
+<img src="res/4.png">
+<img src="res/5.png">
