@@ -19,3 +19,5 @@ This website “ONLINE DISCUSSION FORUM” is made for providing a  platform for
 * Bootstrap 3 - for responsive UI
 * MySql - for database
 * DAO are used for providing access to an underlying database or any other persistence storage
+
+Report: https://docs.google.com/document/d/1tWqDY9erg-hAc3zu81TOUPBM47kSr-2xamCNMXJOeV4/edit?usp=sharing
