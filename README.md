@@ -13,7 +13,7 @@ This website “ONLINE DISCUSSION FORUM” is made for providing a  platform for
 
 ## Project is created using
 * Eclipse EE IDE
-* pache Tomcat Server
+* Apache Tomcat Server
 * Servlet
 * JSP
 * Bootstrap 3 - for responsive UI
